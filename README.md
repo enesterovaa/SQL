@@ -1,3 +1,3 @@
 # SQL
 
-В этой папке находятся примеры решенных мной заданий по SQL.
+This repo contains SQL-tasks
